@@ -1,0 +1,52 @@
+[
+    {
+        "name": "_id",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "rent",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "area",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "ft_rent",
+        "type": "FLOAT",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "latlng",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "address",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "dist_id",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "dist",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "region",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "source",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    }
+]

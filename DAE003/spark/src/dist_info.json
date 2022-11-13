@@ -1,0 +1,681 @@
+[{
+    "_id": "1008",
+    "mapLatitude": "22.286833",
+    "mapLongitude": "114.140482",
+    "mapZoom": "16",
+    "name": "西環",
+    "nameENG": "Western District",
+    "region": "1999"
+  }, {
+    "_id": "1001",
+    "mapLatitude": "22.286992",
+    "mapLongitude": "114.15164",
+    "mapZoom": "17",
+    "name": "上環",
+    "nameENG": "Sheung Wan",
+    "region": "1999"
+  }, {
+    "_id": "1003",
+    "mapLatitude": "22.281035",
+    "mapLongitude": "114.15885",
+    "mapZoom": "14",
+    "name": "中環",
+    "nameENG": "Central",
+    "region": "1999"
+  }, {
+    "_id": "1005",
+    "mapLatitude": "22.280519",
+    "mapLongitude": "114.14825",
+    "mapZoom": "17",
+    "name": "半山",
+    "nameENG": "Mid-Levels",
+    "region": "1999"
+  }, {
+    "_id": "1002",
+    "mapLatitude": "22.271425",
+    "mapLongitude": "114.149666",
+    "mapZoom": "15",
+    "name": "山頂",
+    "nameENG": "The Peak",
+    "region": "1999"
+  }, {
+    "_id": "1011",
+    "mapLatitude": "22.279248",
+    "mapLongitude": "114.164944",
+    "mapZoom": "16",
+    "name": "金鐘",
+    "nameENG": "Admiralty",
+    "region": "1999"
+  }, {
+    "_id": "1022",
+    "mapLatitude": "22.277759",
+    "mapLongitude": "114.173076",
+    "mapZoom": "18",
+    "name": "灣仔",
+    "nameENG": "Wan Chai",
+    "region": "1999"
+  }, {
+    "_id": "1017",
+    "mapLatitude": "22.268526",
+    "mapLongitude": "114.186444",
+    "mapZoom": "16",
+    "name": "跑馬地",
+    "nameENG": "Happy Valley",
+    "region": "1999"
+  }, {
+    "_id": "1019",
+    "mapLatitude": "22.2802708611615",
+    "mapLongitude": "114.183965921402",
+    "mapZoom": "16",
+    "name": "銅鑼灣",
+    "nameENG": "Causeway Bay",
+    "region": "1999"
+  }, {
+    "_id": "1025",
+    "mapLatitude": "22.2784639854031",
+    "mapLongitude": "114.191915988922",
+    "mapZoom": "17",
+    "name": "大坑",
+    "nameENG": "Tai Hang",
+    "region": "1999"
+  }, {
+    "_id": "1026",
+    "mapLatitude": "22.2825740975104",
+    "mapLongitude": "114.192087650299",
+    "mapZoom": "17",
+    "name": "天后",
+    "nameENG": "Tin Hau",
+    "region": "1999"
+  }, {
+    "_id": "1004",
+    "mapLatitude": "22.2914",
+    "mapLongitude": "114.200735",
+    "mapZoom": "16",
+    "name": "北角",
+    "nameENG": "North Point",
+    "region": "1999"
+  }, {
+    "_id": "1014",
+    "mapLatitude": "22.288739",
+    "mapLongitude": "114.21037",
+    "mapZoom": "16",
+    "name": "鰂魚涌",
+    "nameENG": "Quarry Bay",
+    "region": "1999"
+  }, {
+    "_id": "1023",
+    "mapLatitude": "22.285733",
+    "mapLongitude": "114.217431",
+    "mapZoom": "14",
+    "name": "太古",
+    "nameENG": "Tai Koo",
+    "region": "1999"
+  }, {
+    "_id": "1009",
+    "mapLatitude": "22.281909",
+    "mapLongitude": "114.222922",
+    "mapZoom": "16",
+    "name": "西灣河",
+    "nameENG": "Sai Wan Ho",
+    "region": "1999"
+  }, {
+    "_id": "1018",
+    "mapLatitude": "22.277302",
+    "mapLongitude": "114.231806",
+    "mapZoom": "14",
+    "name": "筲箕灣",
+    "nameENG": "Shau Kei Wan",
+    "region": "1999"
+  }, {
+    "_id": "1024",
+    "mapLatitude": "22.2767861512954",
+    "mapLongitude": "114.239273071289",
+    "mapZoom": "15",
+    "name": "杏花邨",
+    "nameENG": "Heng Fa Chuen",
+    "region": "1999"
+  }, {
+    "_id": "1013",
+    "mapLatitude": "22.264872",
+    "mapLongitude": "114.239573",
+    "mapZoom": "15",
+    "name": "柴灣",
+    "nameENG": "Chai Wan",
+    "region": "1999"
+  }, {
+    "_id": "1021",
+    "mapLatitude": "22.268843",
+    "mapLongitude": "114.131513",
+    "mapZoom": "15",
+    "name": "薄扶林",
+    "nameENG": "Pok Fu Lam",
+    "region": "1999"
+  }, {
+    "_id": "1012",
+    "mapLatitude": "22.250653",
+    "mapLongitude": "114.148464",
+    "mapZoom": "14",
+    "name": "香港仔",
+    "nameENG": "Aberdeen",
+    "region": "1999"
+  }, {
+    "_id": "1020",
+    "mapLatitude": "22.240246",
+    "mapLongitude": "114.153271",
+    "mapZoom": "15",
+    "name": "鴨脷洲",
+    "nameENG": "Ap Lei Chau",
+    "region": "1999"
+  }, {
+    "_id": "1016",
+    "mapLatitude": "22.23965",
+    "mapLongitude": "114.190006",
+    "mapZoom": "15",
+    "name": "深水灣",
+    "nameENG": "Deep Water Bay",
+    "region": "1999"
+  }, {
+    "_id": "1027",
+    "mapLatitude": "22.2459198",
+    "mapLongitude": "114.1664957",
+    "mapZoom": "14",
+    "name": "黃竹坑",
+    "nameENG": "Wong Chuk Hang",
+    "region": "1999"
+  }, {
+    "_id": "1015",
+    "mapLatitude": "22.236909",
+    "mapLongitude": "114.198332",
+    "mapZoom": "15",
+    "name": "淺水灣",
+    "nameENG": "Repulse Bay",
+    "region": "1999"
+  }, {
+    "_id": "1007",
+    "mapLatitude": "22.237545",
+    "mapLongitude": "114.238243",
+    "mapZoom": "14",
+    "name": "石澳",
+    "nameENG": "Shek O",
+    "region": "1999"
+  }, {
+    "_id": "1010",
+    "mapLatitude": "22.219668",
+    "mapLongitude": "114.209146",
+    "mapZoom": "14",
+    "name": "赤柱",
+    "nameENG": "Stanley",
+    "region": "1999"
+  }, {
+    "_id": "2031",
+    "mapLatitude": "22.3375724398611",
+    "mapLongitude": "114.140117168426",
+    "mapZoom": "16",
+    "name": "美孚",
+    "nameENG": "Mei Foo",
+    "region": "2999"
+  }, {
+    "_id": "2016",
+    "mapLatitude": "22.336937",
+    "mapLongitude": "114.145246",
+    "mapZoom": "16",
+    "name": "荔枝角",
+    "nameENG": "Lai Chi Kok",
+    "region": "2999"
+  }, {
+    "_id": "2013",
+    "mapLatitude": "22.3355479798467",
+    "mapLongitude": "114.155716896057",
+    "mapZoom": "15",
+    "name": "長沙灣",
+    "nameENG": "Cheung Sha Wan",
+    "region": "2999"
+  }, {
+    "_id": "2019",
+    "mapLatitude": "22.330983",
+    "mapLongitude": "114.16224",
+    "mapZoom": "17",
+    "name": "深水埗",
+    "nameENG": "Sham Shui Po",
+    "region": "2999"
+  }, {
+    "_id": "2029",
+    "mapLatitude": "22.324552",
+    "mapLongitude": "114.167991",
+    "mapZoom": "17",
+    "name": "太子",
+    "nameENG": "Prince Edward",
+    "region": "2999"
+  }, {
+    "_id": "2010",
+    "mapLatitude": "22.318716",
+    "mapLongitude": "114.169579",
+    "mapZoom": "17",
+    "name": "旺角",
+    "nameENG": "Mong Kok",
+    "region": "2999"
+  }, {
+    "_id": "2005",
+    "mapLatitude": "22.321535",
+    "mapLongitude": "114.162669",
+    "mapZoom": "17",
+    "name": "大角咀",
+    "nameENG": "Tai Kok Tsui",
+    "region": "2999"
+  }, {
+    "_id": "2011",
+    "mapLatitude": "22.313277",
+    "mapLongitude": "114.170566",
+    "mapZoom": "17",
+    "name": "油麻地",
+    "nameENG": "Yau Ma Tei",
+    "region": "2999"
+  }, {
+    "_id": "2028",
+    "mapLatitude": "22.305178",
+    "mapLongitude": "114.171638",
+    "mapZoom": "18",
+    "name": "佐敦",
+    "nameENG": "Jordan",
+    "region": "2999"
+  }, {
+    "_id": "2008",
+    "mapLatitude": "22.299381",
+    "mapLongitude": "114.172111",
+    "mapZoom": "15",
+    "name": "尖沙咀",
+    "nameENG": "Tsim Sha Tsui",
+    "region": "2999"
+  }, {
+    "_id": "2015",
+    "mapLatitude": "22.304741",
+    "mapLongitude": "114.187946",
+    "mapZoom": "16",
+    "name": "紅磡",
+    "nameENG": "Hung Hom",
+    "region": "2999"
+  }, {
+    "_id": "2009",
+    "mapLatitude": "22.313356",
+    "mapLongitude": "114.179835",
+    "mapZoom": "16",
+    "name": "何文田",
+    "nameENG": "Ho Man Tin",
+    "region": "2999"
+  }, {
+    "_id": "2004",
+    "mapLatitude": "22.31558",
+    "mapLongitude": "114.190736",
+    "mapZoom": "16",
+    "name": "土瓜灣",
+    "nameENG": "To Kwa Wan",
+    "region": "2999"
+  }, {
+    "_id": "2007",
+    "mapLatitude": "22.333662",
+    "mapLongitude": "114.167819",
+    "mapZoom": "16",
+    "name": "石硤尾",
+    "nameENG": "Shek Kip Mei",
+    "region": "2999"
+  }, {
+    "_id": "2002",
+    "mapLatitude": "22.337533",
+    "mapLongitude": "114.178548",
+    "mapZoom": "16",
+    "name": "九龍塘",
+    "nameENG": "Kowloon Tong",
+    "region": "2999"
+  }, {
+    "_id": "2001",
+    "mapLatitude": "22.330308",
+    "mapLongitude": "114.193182",
+    "mapZoom": "17",
+    "name": "九龍城",
+    "nameENG": "Kowloon City",
+    "region": "2999"
+  }, {
+    "_id": "2030",
+    "mapLatitude": "22.338128",
+    "mapLongitude": "114.18756",
+    "mapZoom": "16",
+    "name": "樂富",
+    "nameENG": "Lok Fu",
+    "region": "2999"
+  }, {
+    "_id": "2020",
+    "mapLatitude": "22.341979",
+    "mapLongitude": "114.194512",
+    "mapZoom": "16",
+    "name": "黃大仙",
+    "nameENG": "Wong Tai Sin",
+    "region": "2999"
+  }, {
+    "_id": "2022",
+    "mapLatitude": "22.337215",
+    "mapLongitude": "114.195457",
+    "mapZoom": "16",
+    "name": "新蒲崗",
+    "nameENG": "San Po Kong",
+    "region": "2999"
+  }, {
+    "_id": "2027",
+    "mapLatitude": "22.342018",
+    "mapLongitude": "114.201207",
+    "mapZoom": "15",
+    "name": "鑽石山",
+    "nameENG": "Diamond Hill",
+    "region": "2999"
+  }, {
+    "_id": "2021",
+    "mapLatitude": "22.348806",
+    "mapLongitude": "114.196744",
+    "mapZoom": "15",
+    "name": "慈雲山",
+    "nameENG": "Tsz Wan Shan",
+    "region": "2999"
+  }, {
+    "_id": "2032",
+    "mapLatitude": "22.3344166511554",
+    "mapLongitude": "114.212086200714",
+    "mapZoom": "16",
+    "name": "彩虹",
+    "nameENG": "Choi Hung",
+    "region": "2999"
+  }, {
+    "_id": "2003",
+    "mapLatitude": "22.32344",
+    "mapLongitude": "114.211464",
+    "mapZoom": "16",
+    "name": "九龍灣",
+    "nameENG": "Kowloon Bay",
+    "region": "2999"
+  }, {
+    "_id": "2006",
+    "mapLatitude": "22.317565",
+    "mapLongitude": "114.217601",
+    "mapZoom": "16",
+    "name": "牛頭角",
+    "nameENG": "Ngau Tau Kok",
+    "region": "2999"
+  }, {
+    "_id": "2026",
+    "mapLatitude": "22.312801",
+    "mapLongitude": "114.225798",
+    "mapZoom": "15",
+    "name": "觀塘",
+    "nameENG": "Kwun Tong",
+    "region": "2999"
+  }, {
+    "_id": "2024",
+    "mapLatitude": "22.309307",
+    "mapLongitude": "114.233565",
+    "mapZoom": "15",
+    "name": "藍田",
+    "nameENG": "Lam Tin",
+    "region": "2999"
+  }, {
+    "_id": "2012",
+    "mapLatitude": "22.296462",
+    "mapLongitude": "114.237556",
+    "mapZoom": "16",
+    "name": "油塘",
+    "nameENG": "Yau Tong",
+    "region": "2999"
+  }, {
+    "_id": "2025",
+    "mapLatitude": "22.296085",
+    "mapLongitude": "114.238071",
+    "mapZoom": "15",
+    "name": "鯉魚門",
+    "nameENG": "Lei Yue Mun",
+    "region": "2999"
+  }, {
+    "_id": "3012",
+    "mapLatitude": "22.373002",
+    "mapLongitude": "114.178584",
+    "mapZoom": "16",
+    "name": "大圍",
+    "nameENG": "Tai Wai",
+    "region": "3999"
+  }, {
+    "_id": "3007",
+    "mapLatitude": "22.3816666142371",
+    "mapLongitude": "114.189147949219",
+    "mapZoom": "14",
+    "name": "沙田",
+    "nameENG": "Sha Tin",
+    "region": "3999"
+  }, {
+    "_id": "3013",
+    "mapLatitude": "22.3952373474545",
+    "mapLongitude": "114.198160171508",
+    "mapZoom": "15",
+    "name": "火炭",
+    "nameENG": "Fo Tan",
+    "region": "3999"
+  }, {
+    "_id": "3009",
+    "mapLatitude": "22.407537",
+    "mapLongitude": "114.225883",
+    "mapZoom": "14",
+    "name": "馬鞍山",
+    "nameENG": "Ma On Shan",
+    "region": "3999"
+  }, {
+    "_id": "3002",
+    "mapLatitude": "22.450538",
+    "mapLongitude": "114.164643",
+    "mapZoom": "15",
+    "name": "大埔",
+    "nameENG": "Tai Po",
+    "region": "3999"
+  }, {
+    "_id": "3014",
+    "mapLatitude": "22.452085105425",
+    "mapLongitude": "114.160737991333",
+    "mapZoom": "15",
+    "name": "太和",
+    "nameENG": "Tai Wo",
+    "region": "3999"
+  }, {
+    "_id": "3008",
+    "mapLatitude": "22.493209",
+    "mapLongitude": "114.139366",
+    "mapZoom": "15",
+    "name": "粉嶺",
+    "nameENG": "Fanling",
+    "region": "3999"
+  }, {
+    "_id": "3001",
+    "mapLatitude": "22.503438",
+    "mapLongitude": "114.126492",
+    "mapZoom": "15",
+    "name": "上水",
+    "nameENG": "Sheung Shui",
+    "region": "3999"
+  }, {
+    "_id": "3011",
+    "mapLatitude": "22.5276212360402",
+    "mapLongitude": "114.113359451293",
+    "mapZoom": "15",
+    "name": "羅湖",
+    "nameENG": "Lo Wu",
+    "region": "3999"
+  }, {
+    "_id": "3021",
+    "mapLatitude": "22.507244",
+    "mapLongitude": "114.079714",
+    "mapZoom": "16",
+    "name": "落馬洲",
+    "nameENG": "Lok Ma Chau",
+    "region": "3999"
+  }, {
+    "_id": "3015",
+    "mapLatitude": "22.3566644303792",
+    "mapLongitude": "114.12790775299",
+    "mapZoom": "17",
+    "name": "葵芳",
+    "nameENG": "Kwai Fong",
+    "region": "3999"
+  }, {
+    "_id": "3019",
+    "mapLatitude": "22.362776",
+    "mapLongitude": "114.131985",
+    "mapZoom": "16",
+    "name": "葵涌",
+    "nameENG": "Kwai Chung",
+    "region": "3999"
+  }, {
+    "_id": "3018",
+    "mapLatitude": "22.358966",
+    "mapLongitude": "114.119196",
+    "mapZoom": "14",
+    "name": "荃灣",
+    "nameENG": "Tsuen Wan",
+    "region": "3999"
+  }, {
+    "_id": "3017",
+    "mapLatitude": "22.350552",
+    "mapLongitude": "114.101686",
+    "mapZoom": "14",
+    "name": "青衣",
+    "nameENG": "Tsing Yi",
+    "region": "3999"
+  }, {
+    "_id": "3022",
+    "mapLatitude": "22.348171",
+    "mapLongitude": "114.059029",
+    "mapZoom": "15",
+    "name": "馬灣",
+    "nameENG": "Ma Wan",
+    "region": "3999"
+  }, {
+    "_id": "3010",
+    "mapLatitude": "22.36738",
+    "mapLongitude": "114.054909",
+    "mapZoom": "15",
+    "name": "深井",
+    "nameENG": "Sham Tseng",
+    "region": "3999"
+  }, {
+    "_id": "3005",
+    "mapLatitude": "22.395396",
+    "mapLongitude": "113.973627",
+    "mapZoom": "15",
+    "name": "屯門",
+    "nameENG": "Tuen Mun",
+    "region": "3999"
+  }, {
+    "_id": "3003",
+    "mapLatitude": "22.440741",
+    "mapLongitude": "114.015899",
+    "mapZoom": "15",
+    "name": "元朗",
+    "nameENG": "Yuen Long",
+    "region": "3999"
+  }, {
+    "_id": "3004",
+    "mapLatitude": "22.462397",
+    "mapLongitude": "114.001436",
+    "mapZoom": "15",
+    "name": "天水圍",
+    "nameENG": "Tin Shui Wai",
+    "region": "3999"
+  }, {
+    "_id": "3016",
+    "mapLatitude": "22.4675128926014",
+    "mapLongitude": "113.984484672546",
+    "mapZoom": "15",
+    "name": "流浮山",
+    "nameENG": "Lau Fau shan",
+    "region": "3999"
+  }, {
+    "_id": "3006",
+    "mapLatitude": "22.379167",
+    "mapLongitude": "114.268069",
+    "mapZoom": "15",
+    "name": "西貢",
+    "nameENG": "Sai Kung",
+    "region": "3999"
+  }, {
+    "_id": "3020",
+    "mapLatitude": "22.311252",
+    "mapLongitude": "114.258928",
+    "mapZoom": "15",
+    "name": "將軍澳",
+    "nameENG": "Tseung Kwan O",
+    "region": "3999"
+  }, {
+    "_id": "4006",
+    "mapLatitude": "22.29545",
+    "mapLongitude": "114.016242",
+    "mapZoom": "15",
+    "name": "愉景灣",
+    "nameENG": "Discovery Bay",
+    "region": "4999"
+  }, {
+    "_id": "4009",
+    "mapLatitude": "22.2898111751485",
+    "mapLongitude": "113.940839767456",
+    "mapZoom": "15",
+    "name": "東涌",
+    "nameENG": "Tung Chung",
+    "region": "4999"
+  }, {
+    "_id": "4002",
+    "mapLatitude": "22.304423",
+    "mapLongitude": "113.937321",
+    "mapZoom": "14",
+    "name": "赤鱲角",
+    "nameENG": "Chek Lap Kok",
+    "region": "4999"
+  }, {
+    "_id": "4001",
+    "mapLatitude": "22.260821",
+    "mapLongitude": "113.949165",
+    "mapZoom": "12",
+    "name": "大嶼山",
+    "nameENG": "Lantau Island",
+    "region": "4999"
+  }, {
+    "_id": "4010",
+    "mapLatitude": "22.255244",
+    "mapLongitude": "113.859815",
+    "mapZoom": "16",
+    "name": "大澳",
+    "nameENG": "Tai O",
+    "region": "4999"
+  }, {
+    "_id": "4004",
+    "mapLatitude": "22.210689",
+    "mapLongitude": "114.028945",
+    "mapZoom": "14",
+    "name": "長洲",
+    "nameENG": "Cheung Chau",
+    "region": "4999"
+  }, {
+    "_id": "4003",
+    "mapLatitude": "22.285721",
+    "mapLongitude": "114.040618",
+    "mapZoom": "15",
+    "name": "坪洲",
+    "nameENG": "Peng Chau",
+    "region": "4999"
+  }, {
+    "_id": "4005",
+    "mapLatitude": "22.207113",
+    "mapLongitude": "114.124947",
+    "mapZoom": "13",
+    "name": "南丫島",
+    "nameENG": "Lamma Island",
+    "region": "4999"
+  }, {
+    "_id": "4011",
+    "mapLatitude": "22.1699193514979",
+    "mapLongitude": "114.262447357177",
+    "mapZoom": "14",
+    "name": "蒲苔島",
+    "nameENG": "Po Toi Island",
+    "region": "4999"
+  }]

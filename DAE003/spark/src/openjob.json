@@ -1,0 +1,86 @@
+{
+    "corpJobId": 93614,
+    "regionId": 0,
+    "status": 10,
+    "name": "全職店務員",
+    "startTime": "2022-11-08T00:00:00+08:00",
+    "endTime": "2022-12-07T00:00:00+08:00",
+    "expInYears": 0,
+    "isShowSalary": "True",
+    "isNegotiable": "False",
+    "salaryFrom": 15000,
+    "salaryTo": 16000,
+    "salaryFromTag": "$15,000",
+    "salaryToTag": "$16,000",
+    "salary": "$15,000-$16,000/month",
+    "isRequireYearsOfExp": "False",
+    "isRequireWorkExp": "False",
+    "isRequireResume": "False",
+    "isRequireEducation": "False",
+    "isRequireExpectedSalary": "False",
+    "isRequireWorkPermit": "False",
+    "isRequireCOVID19Vaccine": "False",
+    "isBookmarked": "False",
+    "isApplied": "False",
+    "isShowDistrictGroupInJobApplication": "False",
+    "applyUrl": "",
+    "isSponsored": "False",
+    "sponsorType": 0,
+    "isShowOnPoiSr2": "True",
+    "companyName": "珍煮丹 Truedan",
+    "whatsappPhone": "85255438820",
+    "logoURLs": {
+        "url": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59lx.jpg",
+        "urls": {
+            "full": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59kx.jpg",
+            "icon": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59tx.jpg",
+            "standard": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59lx.jpg",
+            "thumbnail": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59sx.jpg"
+        }
+    },
+    "sr1LogoURLs": {
+        "url": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59lx.jpg",
+        "urls": {
+            "full": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59kx.jpg",
+            "icon": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59tx.jpg",
+            "standard": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59lx.jpg",
+            "thumbnail": "https://bizstatic1.orstatic.com/userphoto/CorpJob/2/1UH/00D4US3B56E32E21800B59sx.jpg"
+        }
+    },
+    "districts": [
+        {
+            "regionId": 0,
+            "districtId": 1019,
+            "districtGroupId": 1999,
+            "name": "Causeway Bay"
+        },
+        {
+            "regionId": 0,
+            "districtId": 3001,
+            "districtGroupId": 3999,
+            "name": "Sheung Shui"
+        },
+        {
+            "regionId": 0,
+            "districtId": 3020,
+            "districtGroupId": 3999,
+            "name": "Tseung Kwan O"
+        }
+    ],
+    "salaryTypes": [
+        {
+            "jobCategoryId": 48,
+            "typeId": 4,
+            "name": "Monthly"
+        }
+    ],
+    "employmentTypes": [
+        {
+            "jobCategoryId": 38,
+            "typeId": 3,
+            "name": "Full Time"
+        }
+    ],
+    "languages": [],
+    "shortenURL": "https://s.openrice.com/QrKb0hcq100"
+}
